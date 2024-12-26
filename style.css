@@ -1,0 +1,48 @@
+/* Стиль для всего сайта */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Заголовки и текст */
+  h1, h2 {
+    color: #333;
+  }
+  
+  /* Стили для главной секции */
+  header {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  header h1 {
+    font-size: 3rem;
+  }
+  
+  header p {
+    font-size: 1.2rem;
+  }
+  
+  /* Стили для раздела "Страны" */
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  /* Стили для секции контактов */
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  form .form-label {
+    font-size: 1rem;
+  }
+  
+  form .form-control {
+    font-size: 1rem;
+  }
+  
